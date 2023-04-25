@@ -1,4 +1,4 @@
-### Selamlar 👋
+# Selamlar 👋
 
 # 💫 About Me:
 👨‍💻Şu anda her soruya cevap veren bir bot üzerinde çalışıyorum<br>✍İyi bir ekip kurup güzel işler yapmak istiyorum<br>🆘Python ile derin öğrenme ile ilgili yardım arıyorum<br>👨‍🎓Şu anda java skript öğreniyorum
