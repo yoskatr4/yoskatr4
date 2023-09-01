@@ -1,7 +1,7 @@
 ## Selamlar 👋
 
 # 💫 Hakkımda:
-👨‍💻Şu anda kapsammlı ve geniş bir el ile pc kontrolü üzerinde çalışıyorum<br>✍İyi bir ekip kurup güzel işler yapmak istiyorum<br>🆘Python ile derin öğrenme ile ilgili yardım arıyorum
+👨‍💻Şu anda proje fikrşi<br>✍İyi bir ekip kurup güzel işler yapmak istiyorum<br>🆘Python ile derin öğrenme ile ilgili yardım arıyorum
 
 
 # 🌐 Sosyal Medya:
