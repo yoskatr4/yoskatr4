@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/enes-aksoy-83750226a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-aksoy-83750226a/" height="30" width="40" /></a>
 <a href="https://instagram.com/1yazilim.exe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1yazilim.exe1" height="30" width="40" /></a>
 <a href="https://medium.com/@enesaksoy1732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@enesaksoy1732" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@qtltechnologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@qtltechnologies" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@QtlTechnologies/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@qtltechnologies" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/erjt8tV9Fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/erjt8tV9Fw" height="30" width="40" /></a>
 </p>
 
